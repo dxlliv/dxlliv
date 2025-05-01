@@ -6,6 +6,8 @@ Always happy to work on anything related to Vue.js
 #### ᴛʜɪɴɢꜱ ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴡɪᴛʜ
 `HTML` `CSS` `SCSS` `JavaScript` `TypeScript` `Vue.js` `Nuxt.js` `Vite` `VitePress` `Vuetify` `PrimeVue` `Storybook` `Pinia` `Xstate` `Capacitor` `Electron` `Server-Sent Events` `Websocket` `Web Workers` `Nest.js` `MySQL` `TypeORM` `MongoDB` `Docker` `WebStorm`
 
+<br />
+
 #### ʏᴏᴜ ᴄᴀɴ ꜰɪɴᴅ ᴍᴇ ᴀʟꜱᴏ ᴏɴ
 [`Bluesky`](https://bluesky.com/profile/dxlliv)
 [`Gridsky`](https://gridsky.pages.dev/dxlliv)
