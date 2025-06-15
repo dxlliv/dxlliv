@@ -10,5 +10,4 @@ Always happy to work on anything related to Vue.js
 [`Bluesky`](https://bluesky.com/profile/dxlliv)
 [`Gridsky`](https://gridsky.pages.dev/dxlliv)
 [`Instagram`](https://instagram.com/dxlliv)
-[`Threads`](https://threads.com/dxvfpv)
 [`Website`](https://dxlliv.github.io) 
