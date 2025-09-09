@@ -7,7 +7,5 @@ Always happy to work on anything related to Vue.js
 <br />
 
 #### ʏᴏᴜ ᴄᴀɴ ꜰɪɴᴅ ᴍᴇ ᴀʟꜱᴏ ᴏɴ
-[`Bluesky`](https://bluesky.com/profile/dxlliv)
-[`Gridsky`](https://gridsky.pages.dev/dxlliv)
 [`Instagram`](https://instagram.com/dxlliv)
 [`Website`](https://dxlliv.github.io) 
