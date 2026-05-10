@@ -17,6 +17,7 @@ I love building with Nuxt, Vue, and the rest of my stack. If my work has saved y
 
 #### 🤝 Looking for a Nuxt expert?
 
-I'm currently available for new opportunities and freelance projects. If you're looking for a developer to bring your ideas to life or strengthen your team, let's talk!
+I'm currently available for new opportunities and freelance projects.  
+If you're looking for a developer to bring your ideas to life or strengthen your team, let's talk!
 
 [Hire me / Get in touch](https://github.com/sponsors/dxlliv)
