@@ -17,7 +17,4 @@ I’m a digital nomad living out of my car in Italy, and I love building with Nu
 
 #### ⚡ Looking to build something great?
 
-My mobile workstation is fueled up and ready for new freelance projects and remote contracts.  
-If you need a developer to bring your ideas to life or strengthen your team, let’s talk!
-
 [Hire me / Get in touch](https://github.com/sponsors/dxlliv)
