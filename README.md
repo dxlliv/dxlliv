@@ -15,4 +15,4 @@ My focus is entirely on Vue and Nuxt. I just love building components, custom mo
 
 [Become a Sponsor](https://github.com/sponsors/dxlliv)
 
-At the same time, I’m currently tearing down and rebuilding **Open Web Desktop**. I’m really hoping to find a company or someone who catches the vision of the project and can give me a way to actually work on it.
+At the same time, I’m currently scaling Open Web Desktop into a modular ecosystem of packages. I’m really hoping to find a company or someone who catches the vision of the project and can give me a way to actually work on it. Maybe even you?
