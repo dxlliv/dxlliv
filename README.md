@@ -1,5 +1,4 @@
 ## Hey, it's Diego 🦎
-Always happy to work on anything related to Vue.js  
 
 <br />
 
@@ -9,6 +8,8 @@ Always happy to work on anything related to Vue.js
 
 **Current stack:** 
 `Nuxt.js Ecosystem`
+
+Always happy to work on anything related to Vue.js
 
 <br />
 
