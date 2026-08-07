@@ -2,7 +2,7 @@
 
 <br />
 
-`HTML` `HTML5` `CSS` `CSS3` `LessCSS` `SCSS` `JavaScript` `TypeScript` `jQuery` `Vue.js` `Nuxt.js` `Vite` `Vuetify` `Quasar` `Tailwind` `PrimeVue` `Pinia` `Xstate` `Capacitor` `Storybook` `VitePress` `Docus` `Electron` `PHP` `CodeIgniter` `Nest.js` `Server-Sent Events` `Websocket` `Docker` `Notepad++` `PhpStorm` `WebStorm` `Antigravity` `Cursor`
+`HTML` `HTML5` `CSS` `CSS3` `LessCSS` `SCSS` `JavaScript` `TypeScript` `jQuery` `PHP` `FlatNuke` `PHP-Nuke` `CodeIgniter` `Vue.js` `Nuxt.js` `Vite` `Vuetify` `Quasar` `Tailwind` `PrimeVue` `Pinia` `XState` `Capacitor` `Storybook` `VitePress` `Docus` `Electron` `Nest.js` `Server-Sent Events` `Websocket` `Docker` `Notepad++` `PhpStorm` `WebStorm` `Antigravity` `Cursor`
 
 <br />
 
